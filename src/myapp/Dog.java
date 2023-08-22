@@ -1,5 +1,5 @@
 package myapp;
 
 public class Dog {
-    private String age;
+    private String color;
 }
